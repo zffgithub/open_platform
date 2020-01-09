@@ -2,5 +2,5 @@
 composer install && php artisan jwt:secret
 yarn install && yarn run dev
 
-php artisan serve --host 0.0.0.0
+php artisan serve --host 0.0.0.0 --port 5888
 

@@ -13,6 +13,7 @@
 /vendor
 /public/*.js
 /public/*.js.map
+/public/*.json
 .env
 .env.backup
 .idea
@@ -21,4 +22,5 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+yarn.lock
 .DS_Store
